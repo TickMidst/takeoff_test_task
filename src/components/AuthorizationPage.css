@@ -1,0 +1,42 @@
+.authField { 
+  border-color:#cccccc; 
+  border-style:solid; 
+  margin: 0 16px; 
+  font-size:19px; 
+  text-align:center; 
+  border-width:4px; 
+  border-radius:6px;  }
+.authField:focus { outline:none; } 
+
+.authWindow {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.authSubmitButton {
+	background:linear-gradient(to bottom, #cccccc 5%, #b5bab3 100%);
+	background-color:#cccccc;
+	border-radius:6px;
+	border:1px solid #cccccc;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+  font-size: 19px; 
+  height: 50px;
+	padding: 0 20px;
+	text-decoration:none;
+}
+.authSubmitButton:hover {
+	background:linear-gradient(to bottom, #b5bab3 5%, #cccccc 100%);
+	background-color:#b5bab3;
+}
+.authSubmitButton:active {
+	position:relative;
+	top:1px;
+}
+
+.inputElements {
+  display: flex;
+}

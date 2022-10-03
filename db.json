@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "email": "olivier@mail.com",
+      "password": "$2a$10$tvrkGqrxRE4p4KnkHLvZUuAHmXClOXdzYLSork5yikh4AFKRL.KnG",
+      "id": 1
+    },
+    {
+      "email": "andrey.makdsahlin@yandex.ru",
+      "password": "$2a$10$R9IFkPD9htlpZUBZCFOSre0hCRPY.fN21C7E5P2piYF.zLhUei9VW",
+      "id": 2
+    },
+    {
+      "email": "takeoffstaff@gmail.com",
+      "password": "$2a$10$l3EbH/QmjXP0mSq3CPrMKOblhjzxRN2EaJPi2Clw2CmzmKJ4e2Ixe",
+      "id": 3
+    },
+    {
+      "email": "takeoff_staff@gmail.com",
+      "password": "$2a$10$Er8LLKuenTV9m2CBneIb.uFrMRurSz4uORxWaYVlx31XDPHewsAUe",
+      "id": 4
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ]
+}

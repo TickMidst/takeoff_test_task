@@ -1,0 +1,23 @@
+.newContactAddingField input {
+  border-color:#cccccc; 
+  border-style:solid; 
+  margin: 0 10px; 
+  font-size:15px; 
+  text-align:center; 
+  border-width:2px; 
+  border-radius:6px; 
+}
+
+.newContactAddingField button {
+  background:linear-gradient(to bottom, #cccccc 5%, #b5bab3 100%);
+	background-color:#cccccc;
+	border-radius:6px;
+	border:2px solid #cccccc;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+  font-size: 15px; 
+  margin: 0 5px;
+	text-decoration:none;
+}
