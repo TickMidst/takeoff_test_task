@@ -2,6 +2,7 @@
 
 Инструкция по запуску:
 npm start
+
 json-server db.json -m ./node_modules/json-server-auth (для запроса на авторизацию)
 
 Данные для входа в личный кабинет:
