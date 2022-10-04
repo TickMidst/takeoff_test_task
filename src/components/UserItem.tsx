@@ -26,8 +26,6 @@ const UserItem: FC<UserItemProps> = ({ contact, isChangable, removeContact }) =>
     return (
         <div style={{ padding: 15, border: '1px solid gray' }}>
 
-
-{contact.id}
             <input type='text' value={contact.name}
                 id='name'
                 disabled={editMode ? false : true}
